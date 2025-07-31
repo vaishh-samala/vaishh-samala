@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Serenity springs**
 
-- 🌱 I’m currently learning **MERN stack & JAVA**
+- 🌱 I’m currently learning **MERN stack, .NET & JAVA**
 
 - 📫 How to reach me **samalavaish77@gmail.com**
 
