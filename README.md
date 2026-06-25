@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Samala</h1>
 <h3 align="center">A tech enthusiast and a B.Tech student from India</h3>
 
-- 🔭 I’m currently working on **Serenity springs**
+- 🔭 I’m currently working on **Cloud Data Pipeline & Dashboard**
 
-- 🌱 I’m currently learning **MERN stack, .NET & JAVA**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **samalavaish77@gmail.com**
 
